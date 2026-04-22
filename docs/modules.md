@@ -1,5 +1,5 @@
-# SourceQ Engine Modules
-
+# QuantoEngine Modules
+<!--
 **Status:** Work In Progress 🚧
 
 This document lists the main modules of SourceQ Engine and their responsibilities.
@@ -23,3 +23,4 @@ This document lists the main modules of SourceQ Engine and their responsibilitie
 - Placeholder folders for planned games: Quanto, Prequel.
 
 > ⚠️ This document is a placeholder for public repository purposes. Detailed internal module implementations are not included.
+-->
