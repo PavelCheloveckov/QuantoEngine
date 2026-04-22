@@ -1,6 +1,6 @@
-# SourceQ Engine
+# Quanto Engine
 
-**Status:** Work **NOT** In Progress (Development has been stopped) 🚧  
+<s>**Status:** Work **NOT** In Progress (Development has been stopped) 🚧  
 **Type:** 3D Game Engine  
 **Platform:** Windows (demo builds), future multi-platform support  
 **Planned Games:** Quanto (2027-2028), Prequel (TBA)  
@@ -10,7 +10,7 @@
 ---
 
 ## Overview
-**SourceQ Engine** is a 3D game engine currently under active development.  
+**Quanto Engine** is a 3D game engine currently under active development.  
 It is designed to power games like the **Quanto** series and other future projects.
 
 Core design goals:
@@ -96,6 +96,6 @@ Core design goals:
 ---
 
 ## License / Disclaimer
-- All demos and code snippets are provided for **educational and showcase purposes only**.  
+- All demos and code snippets are provided for **educational and showcase purposes only**.
 - Source code is proprietary; no redistribution or modification of full engine code is permitted.  
-- By exploring this repository, you acknowledge that all projects are works in progress.
+- By exploring this repository, you acknowledge that all projects are works in progress.</s>
