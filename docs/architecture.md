@@ -1,5 +1,6 @@
-# SourceQ Engine Architecture
+# QuantoEngine Architecture
 
+<!--
 Status Work In Progress 🚧
 
 This document describes the overall architecture of SourceQ Engine.  
@@ -21,3 +22,4 @@ It covers the core systems, design goals, and relationships between modules.
 - Advanced lighting and visual effects
 
  ⚠️ This document is a placeholder for public repository purposes. Full internal architecture is not disclosed.
+-->
