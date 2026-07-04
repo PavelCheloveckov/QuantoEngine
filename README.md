@@ -2,13 +2,15 @@
 
 > [!IMPORTANT]
 > **Development has been stopped because OpenCore is now a higher priority.**
+> 
+> **QuantoEngine is a proprietary version of OpenCore! After the full release of OpenCore, please send issues specifically to the QuantoEngine repository, as the development of OpenCore will be completed.**
 
 **Status:** Halted (Development Stopped)  
 **Type:** 3D Game Engine  
 **Platform:** Windows (demo builds available)  
-**Planned Games:** Quanto (canceled/on hold)
+~**Planned Games:** Quanto (canceled/on hold)~
 
-**Repository Purpose:** Demo, architecture showcase, archive  
+**Repository Purpose:** Demo, architecture showcase
 **Source Code:** Closed / reworked version only  
 
 ---
@@ -50,7 +52,7 @@ Core design goals:
 ---
 
 ## Media
-> No screenshots or GIFs available.  
+> No screenshots available.  
 
 ---
 
