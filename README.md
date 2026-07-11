@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > **Development has been stopped because OpenCore is now a higher priority.**
 > 
-> **QuantoEngine is a proprietary version of OpenCore! After the full release of OpenCore, please send issues specifically to the QuantoEngine repository, as the development of OpenCore will be completed.**
+<!--**QuantoEngine is a proprietary version of OpenCore! After the full release of OpenCore, please send issues specifically to the QuantoEngine repository, as the development of OpenCore will be completed.**-->
 
 **Status:** Halted (Development Stopped)  
 **Type:** 3D Game Engine  
